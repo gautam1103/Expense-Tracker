@@ -4,10 +4,10 @@ Welcome! Thank you for applying for the QA Engineer role at Cloud Code AI. As pa
 
 ## Instructions:
 - You have up to 4 days to complete this assessment (Please submit by July 12, 2024 - 12 PM EST). Please manage your time effectively.
-- Fork the provided repository and create a private repository.
+- Clone the provided repository and create a private repository of your own with the name as `<firstname>-<lastname>-cloudcode-qa-test-july-2024`.
 - Add [shreyashkgupta](https://github.com/shreyashkgupta) and [sauravpanda](https://github.com/sauravpanda) as collaborators to your private repository.
 - Upload all your code, test results, and supporting files to this private repository.
-- Provide a brief document explaining your approach within the repository.
+- Create a brief markdown document (.md) explaining your approach within the repository.
 - Feel free to use any resources, but ensure that the work you submit is your own.
 
 ## Overview:
@@ -79,4 +79,6 @@ Implement any additional features or functionality that you believe would enhanc
 - Ability to articulate challenges faced and solutions implemented.
 
 ### Additional Features:
-- Implementation of additional features that enha
+- Implementation of additional features that enhance the application.
+- Creativity and technical skill in adding new functionality
+

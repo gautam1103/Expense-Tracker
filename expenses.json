@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 100,
+        "category": "Food",
+        "description": "Lunch at a restaurant",
+        "date": "2024-07-12"
+    },
+    {
+        "amount": 60,
+        "category": "Transportation",
+        "description": "Taxi fare",
+        "date": "2024-07-12"
+    }
+]
